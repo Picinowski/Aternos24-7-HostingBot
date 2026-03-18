@@ -1,12 +1,12 @@
 {
-  "name": " Bot",
+  "name": " Bocik_samolocik",
   "bot-account": {
     "username": "BOT",
     "password": "123",
     "type": "offline"
   },
   "server": {
-    "ip": "plus1000aury.aternos.me",
+    "ip": "plus1000aury.aternos.me:63992",
     "port": 63992,
     "version": "1.21.11",
     "try-creative": false
